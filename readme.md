@@ -1,6 +1,6 @@
 # LJL Backend Team Take-Home Task
 #### Task: fine-tune a T5 Model on SQuAD dataset
-#### Extra features: Question generation using own PDFs.
+#### Extra features: Question generation using custom PDFs.
 
 # How to get started:
 * Step 1 (install necessities)
