@@ -3,8 +3,9 @@
 #### Extra features: Question generation using own PDFs.
 
 # How to get started:
-* Step 1 (install modules)
+* Step 1 (install necessities)
     * ```pip install -r "requirements.txt"```
+    * Download fine-tuned model and tokenizer ([link](https://drive.google.com/file/d/1uBP8FcZlhow7MTqX7W67_8TjQGqkKVCK/view?usp=sharing)) and relocate into host directory.
 * Step 2 (run app)
     * ```streamlit run main.py```
 * Step 3 (demo)
